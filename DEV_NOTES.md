@@ -12,3 +12,8 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Resolved TODO items from previous session
 - Updated license year
+
+## 2026-04-22
+- Documented config options
+- Tested build on clean environment
+- Added .editorconfig for consistent formatting

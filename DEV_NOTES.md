@@ -17,3 +17,6 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Tested build on clean environment
 - Added .editorconfig for consistent formatting
+
+## 2026-04-29
+- Improved error handling in edge cases
